@@ -1,4 +1,4 @@
-#Visualizing Music Therapy with Harmonographs and Spectrograms: When Music meets Maths
+# Visualizing Music Therapy with Harmonographs and Spectrograms: When Music meets Maths
 
 **Index**
 
